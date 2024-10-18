@@ -194,7 +194,7 @@ namespace test1
 
         static void HideNSeek()
         {
-            string[] hidingSpots = { "balcony", "bathtub", "closet", "couch", "fridge", "plant", "sink" };
+            string[] hidingSpots = { "balcony", "bathtub", "closet", "couch", "fridge", "plant", "sink", "lLlaasd" };
         }
 
         static void ViewTokenBalance(int tokens)
