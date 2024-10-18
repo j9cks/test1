@@ -26,3 +26,4 @@ c:\Users\Jackson\OneDrive - East Tennessee State University\VS Code Project\test
 c:\Users\Jackson\OneDrive - East Tennessee State University\VS Code Project\test1\obj\Debug\net8.0\test1.pdb
 C:\Users\Jackson\OneDrive - East Tennessee State University\VS Code Project\test1\obj\Debug\net8.0\test1.genruntimeconfig.cache
 C:\Users\Jackson\OneDrive - East Tennessee State University\VS Code Project\test1\obj\Debug\net8.0\ref\test1.dll
+c:\Users\Jackson\OneDrive - East Tennessee State University\VS Code Project\test1\obj\Debug\net8.0\test1.sourcelink.json
